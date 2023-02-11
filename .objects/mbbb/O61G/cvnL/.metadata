@@ -1,0 +1,13 @@
+﻿{
+  "Id": "cvnL1Jbud02B3ECoOFE9gw",
+  "Reference": "BBs4ypYpM0m5UUFeOBDo8Q/cvnL1Jbud02B3ECoOFE9gw",
+  "ParentRef": "BBs4ypYpM0m5UUFeOBDo8Q/O61GhWygTka4hJ4enH8vLQ",
+  "Name": "Chrome: Wyniki wyszukiwania - stanislaw.grzegorzewicz2020p@zsepoznan.pl - Zespół Szkół Ekonomicznych",
+  "Type": "Screen",
+  "Created": "2023-02-08T15:05:13.5949822Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-08T15:05:13.5949822Z"
+}

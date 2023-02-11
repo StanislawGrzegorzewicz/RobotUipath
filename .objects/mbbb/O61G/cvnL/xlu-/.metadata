@@ -1,0 +1,14 @@
+﻿{
+  "Id": "xlu-lsA5A0mbqH9yO9qhCg",
+  "Reference": "BBs4ypYpM0m5UUFeOBDo8Q/xlu-lsA5A0mbqH9yO9qhCg",
+  "ParentRef": "BBs4ypYpM0m5UUFeOBDo8Q/cvnL1Jbud02B3ECoOFE9gw",
+  "Name": "Oznacz jako przeczytane",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-02-08T15:05:23.5365055Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-08T15:05:23.5365055Z"
+}
